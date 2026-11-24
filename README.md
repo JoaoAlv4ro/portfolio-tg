@@ -161,6 +161,13 @@ No segundo semestre foi proposto o desenvolvimento do Sputnik, uma IDE desktop c
 - Interface desktop intuitiva construída em JavaFX.
 - Persistência das informações da aplicação em MySQL.
 
+### Links do projeto
+
+<p>
+    <a href="https://github.com/SPACELINE-API/Sputnik_IDE"><img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+
 ### Tecnologias utilizadas
 
 - **Java:** linguagem principal no desenvolvimento da IDE e da lógica da aplicação.
